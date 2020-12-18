@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>  <!-- index number:0 -->
+    <player 
+        rank="1"
+        name="Cody Bellinger"
+        born="7/13/1995"
+        height="6'4&quot;"
+        team="Los Angeles Dodgers"
+        number="35"
+        position="1B"
+        avg="0.434"
+    />
+
+    <!-- index number:1 -->
+    <player 
+        rank="2"
+        name="Tim Anderson"
+        born="6/23/1993"
+        height="6'1&quot;"
+        team="Chicago White Sox"
+        number="7"
+        position="SS"
+        avg="0.375"
+    />
+
+    <!-- index number:2 -->
+    <player 
+        rank="3"
+        name="Elvis Andrus"
+        born="8/26/1998"
+        height="6'0&quot;"
+        team="Texas Rangers"
+        number="1"
+        position="SS"
+        avg="0.368"
+    />
+
+    <!-- index number:3 -->
+    <player 
+        rank="4"
+        name="Anthony Redon"
+        born="6/6/1990"
+        height="6'0&quot;"
+        team="Washington Nationals"
+        number="6"
+        position="3B"
+        avg="0.356"
+    />
+
+    <!-- index number:4 -->
+    <player 
+        rank="5"
+        name="Trey Mancini"
+        born="3/18/1992"
+        height="6'4&quot;"
+        team="Baltimore Orioles"
+        number="16"
+        position="LF"
+        avg="0.355"
+    />
+
+    <!-- index number:5 -->
+    <player 
+        rank="6"
+        name="Christian Yelich"
+        born="12/5/1991"
+        height="6'3&quot;"
+        team="Milwaukee Brewers"
+        number="22"
+        position="LF"
+        avg="0.353"
+    />
+
+    <!-- index number:6 -->
+    <player 
+        rank="7"
+        name="Hunter Dozier"
+        born="8/22/1991"
+        height="6'4&quot;"
+        team="Kansas City Roylas"
+        number="17"
+        position="1B"
+        avg="0.349"
+    />
+
+    <!-- index number:7 -->
+    <player 
+        rank="8"
+        name="Jeff McNeil"
+        born="4/8/1992"
+        height="6'1&quot;"
+        team="New York Mets"
+        number="6"
+        position="2B"
+        avg="0.347"
+    />
+
+    <!-- index number:8 -->
+    <player 
+        rank="9"
+        name="Paul DeJong"
+        born="8/2/1993"
+        height="6'0&quot;"
+        team="St.Louis Cardinals"
+        number="12"
+        position="SS"
+        avg="0.342"
+    />
+
+    <!-- index number:9 -->
+    <player 
+        rank="10"
+        name="Josh Reddick"
+        born="2/19/1987"
+        height="6'2&quot;"
+        team="Boston Red Sox"
+        number="22"
+        position="RF"
+        avg="0.337"
+    />
+
+    <!-- index number:10 -->
+    <player
+        rank="11"
+        name="J.D.Martinez"
+        born="8/21/1987"
+        height="6'3&quot;"
+        team="Houston Astros"
+        number="28"
+        position="LF"
+        avg="0.337"
+    />
+
+    <!-- index number:11 -->
+    <player
+        rank="12"
+        name="Melky Cabrera"
+        born="8/11/1984"
+        height="5'10&quot;"
+        team="Pittsburgh Pirates"
+        number="53"
+        position="OF"
+        avg="0.333"
+    />
+
+    <!-- index number:12 -->
+    <player
+        rank="13"
+        name="Nick Markakis"
+        born="11/17/1983"
+        height="6'1&quot;"
+        team="Baltimore Orioles"
+        number="22"
+        position="RF"
+        avg="0.33"
+    />
+
+    <!-- index number:13 -->
+    <player
+        rank="14"
+        name="ShinSoo Choo"
+        born="7/13/1982"
+        height="5'11&quot;"
+        team="Texas Rangers"
+        number="17"
+        position="RF"
+        avg="0.33"
+    />
+
+    <!-- index number:14 -->
+    <player
+        rank="15"
+        name="Brian Goodwin"
+        born="11/2/1990"
+        height="6'0&quot;"
+        team="Washinton Nationals"
+        number="18"
+        position="CF"
+        avg="0.329"
+    />
+
+    <!-- index number:15 -->
+    <player
+        rank="16"
+        name="Jorge Polanco"
+        born="7/5/1993"
+        height="5'11&quot;"
+        team="Minnesota Twins"
+        number="11"
+        position="SS"
+        avg="0.327"
+    />
+
+    <!-- index number:16 -->
+    <player
+        rank="17"
+        name="Davrank Peralta"
+        born="8/14/1987"
+        height="6'1&quot;"
+        team="Arizona Diamondbacks"
+        number="6"
+        position="LF"
+        avg="0.325"
+    />
+
+    <!-- index number:17 -->
+    <player
+        rank="18"
+        name="Marcus Semien"
+        born="9/17/1990"
+        height="6'11&quot;"
+        team="Oakland Athletics"
+        number="10"
+        position="SS"
+        avg="0.311"
+    />
+
+    <!-- index number:18 -->
+    <player
+        rank="19"
+        name="Michael Brantley"
+        born="5/15/1987"
+        height="6'2&quot;"
+        team="Houston Astros"
+        number="23"
+        position="LF"
+        avg="0.319"
+    />
+
+    <!-- index number:19 -->
+    <player
+        rank="20"
+        name="Christian Walker"
+        born="3/28/1991"
+        height="6'0&quot;"
+        team="Arizona Diamondbacks"
+        number="53"
+        position="1B"
+        avg="0.316"
+    />
+
+    <!-- index number:20 -->
+    <player
+        rank="21"
+        name="Javier Baez"
+        born="12/1/1992"
+        height="6'0&quot;"
+        team="Chicago Cubs"
+        number="9"
+        position="2B"
+        avg="0.315"
+    />
+
+    <!-- index number:21 -->
+    <player
+        rank="22"
+        name="Freddy Galvis"
+        born="11/14/1989"
+        height="5'10&quot;"
+        team="Toronto Blue Jays"
+        number="16"
+        position="SS"
+        avg="0.315"
+    />
+
+    <!-- index number:22 -->
+    <player
+        rank="23"
+        name="Yoan Moncada"
+        born="5/27/1995"
+        height="6'2&quot;"
+        team="Chicago White Sox"
+        number="10"
+        position="3B"
+        avg="0.314"
+    />
+
+    <!-- index number:23 -->
+    <player
+        rank="24"
+        name="Dexter Fowler"
+        born="3/22/1986"
+        height="6'5&quot;"
+        team="St.Louis Chardinals"
+        number="25"
+        position="RF"
+        avg="0.313"
+    />
+
+    <!-- index number:24 -->
+    <player
+        rank="25"
+        name="Jason Heyward"
+        born="8/9/1989"
+        height="6'5&quot;"
+        team="Chicago Cubs"
+        number="22"
+        position="RF"
+        avg="0.312"
+    />
+</root>
